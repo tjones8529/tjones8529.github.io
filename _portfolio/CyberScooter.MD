@@ -1,8 +1,8 @@
 ---
 title: "Hydrogen Fuel Cell Technology Strategy"
 excerpt: "Developed a full technology strategy for hydrogen fuel semi-trucks."
-header:
-  teaser: /assets/img/Web capture_24-4-2023_224243_.jpeg
+#header:
+  #teaser: /assets/img/Web capture_24-4-2023_224243_.jpeg
 gallery:
   - image_path: /assets/img/Web capture_24-4-2023_223129_.jpeg
   - image_path: /assets/img/Web capture_24-4-2023_22352_.jpeg

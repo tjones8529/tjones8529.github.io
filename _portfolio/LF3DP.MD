@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/speed climbing.jpg
 gallery:
   - image_path: /assets/img/speed climbing.jpg
-  - image_path: assets/img/hard climb.png
+  - image_path: /assets/img/hard climb.png
    
 ---
 
@@ -17,4 +17,4 @@ Speed climbing is the newest discipline of competitive climbing and involves rac
 # Current Progress
 My current fastest time is 8.53 seconds, which put me at 9th in the nation for collegiate last year. Most climbers start off not even able to reach the top of the wall, and a 15 second time is considered average amongst high-level climbers. My experience in other disciplines of climbing has given me an advantage in making this goal possible in a reasonable amount of time. 
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+\

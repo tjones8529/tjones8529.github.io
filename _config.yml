@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : "Website for 2900W"
 name                     : &name "Tyler Jones" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
-url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tjones8529.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,16 +97,16 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "Tyler Headshot.jpg"
   bio              : "Chemical Engineering Student"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://tjones8529.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/tjones8529"
 
 
 # Site Footer

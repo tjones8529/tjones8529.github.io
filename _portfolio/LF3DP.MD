@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "Speed Climbing"
+excerpt: "Racing Straight up a 15 meter wall in under 7 seconds."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
@@ -11,13 +11,11 @@ gallery:
    
 ---
 
-# Features
+# Goal
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+Speed climbing is the newest discipline of competitive climbing and involves racing up a standardized 15 meter wall as fast as possible. My goal is to hit a sub 7 second time and become one of the top collegiate speed climbers in the nation.
 
-# CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+# Current Progress
+My current fastest time is 9.44 seconds, which put me at 9th in the nation for collegiate last year. Most climbers start off not even able to reach the top of the wall, and a 15 second time is considered average amongst high-level climbers. My experience in other disciplines of climbing has given me an advantage in making this goal possible in a reasonable amount of time. 
 
 {% include gallery caption="Large Format 3D Printer Gallery" %}

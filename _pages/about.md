@@ -32,6 +32,6 @@ Tyler is an avid rock climber both as a hobbyist and a competitive athlete. He i
 * Collegiate Boulder Climbing: 44th in the nation
 * Collegiate Lead Climbing: 40th in the nation
 
-![Tyler Competing in the 2022 Collegiate National Championships](
+![Tyler Competing in the 2022 Collegiate National Championships](/assets/img/Speed Climb.jpg)
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>

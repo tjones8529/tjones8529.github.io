@@ -13,4 +13,4 @@ I created this project as part of a 3 man team in Vanderbilt University's Engine
 
 [Hydrogen Fuel Cell Technology Strategy](https://drive.google.com/file/d/1e9sNAzSnQ-DOQZgjfWYn0YWI8MK9XY2U/view?usp=sharing)
 
-{% Include gallery caption="Document Screenshots" %}
+#{% Include gallery caption="Document Screenshots" %}

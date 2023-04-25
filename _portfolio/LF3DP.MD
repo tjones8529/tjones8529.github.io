@@ -4,8 +4,8 @@ excerpt: "Racing straight up a 15 meter wall in under 7 seconds."
 #header:
   #teaser: /assets/img/9wfaf8ss.png
 gallery:
-  - image_path: /assets/img/speed climbing.jpg
-  - image_path: /assets/img/hard climb.PNG
+  #- image_path: /assets/img/speed climbing.jpg
+  #- image_path: /assets/img/hard climb.PNG
    
 ---
  

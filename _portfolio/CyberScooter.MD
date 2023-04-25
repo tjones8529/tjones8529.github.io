@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Hydrogen Fuel Cell Technology Strategy"
+excerpt: "Developed a full technology strategy for hydrogen fuel semi-trucks."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
@@ -16,6 +16,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+I did this project as part of a 3 man team in Vanderbilt University's Engineering Management program. This document focuses on the potential of hydrogen fuel cell semi-trucks in the trucking industry and the obstacles to consider using data-driven analysis and understanding. The strategy covers 12 main issues including the current competitive market, market demand/cost, intellectual property, commercialization, etc.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}

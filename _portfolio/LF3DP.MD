@@ -2,14 +2,14 @@
 title: "Speed Climbing"
 excerpt: "Racing straight up a 15 meter wall in under 7 seconds."
 header:
-  image:
   teaser: /assets/img/9wfaf8ss.png
 gallery:
   - image_path: /assets/img/speed climbing.jpg
   - image_path: /assets/img/hard climb.PNG
    
 ---
-
+ 
+#     
 # Goal
 
 Speed climbing is the newest discipline of competitive climbing and involves racing up a standardized 15 meter wall as fast as possible. My goal is to hit a sub 7 second time and become one of the top collegiate speed climbers in the nation.

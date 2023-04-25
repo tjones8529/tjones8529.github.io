@@ -10,4 +10,4 @@ header:
       url: "/portfolio/"
 excerpt: "Tyler Jones is a chemical engineering student fascinated by the developments in modern energy capture and storage. His interests lie in these opportunities of revolutionizing our current technologies and ideas with an eye towards a climate-neutral future."
 
-
+---

@@ -2,12 +2,11 @@
 title: "Speed Climbing"
 excerpt: "Racing straight up a 15 meter wall in under 7 seconds."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image:
+  teaser: /assets/img/speed climbing.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: /assets/img/speed climbing.jpg
+  - image_path: assets/img/hard climb.png
    
 ---
 
